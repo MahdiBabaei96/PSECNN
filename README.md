@@ -1,6 +1,5 @@
 # PSECNN
 Detection of polypharmacy side effects by integrating multiple data sources and convolutional neural networks
-# Decagon: Representation Learning on Multimodal Graphs
 
 #### Author: [Mahdi Babaei] ( mahdi.babaei@qom.ac.ir)
 #### Author: [Amir Lakizadeh] ( lakizadeh@qom.ac.ir)
