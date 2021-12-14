@@ -15,13 +15,19 @@ polypharmacy side effects, which are represented as drug-drug interactions.
 
 ## Datasets: URLs
 
-DrugBank: www.drugbank.ca/
-SIDER: sideeffects.embl.de/	
-STITCH: stitch.embl.de/
-PubChem: pubchem.ncbi.nlm.nih.gov/
-KEGG: genome.jp		
-TWOSIDES: tatonettilab.org/twosides
-OFFSIDES: tatonettilab.org/offsides
+DrugBank: http://www.drugbank.ca/
+
+SIDER: http://www.sideeffects.embl.de/	
+
+STITCH: http://www.stitch.embl.de/
+
+PubChem: http://www.pubchem.ncbi.nlm.nih.gov/
+
+KEGG: http://www.genome.jp		
+
+TWOSIDES: http://www.tatonettilab.org/twosides
+
+OFFSIDES: http://www.tatonettilab.org/offsides
 
 
 ### Running the code
