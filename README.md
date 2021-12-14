@@ -13,6 +13,17 @@ This repository contains code necessary to run the PSECNN algorithm. PSECNN is a
 We construct a multilabel multiclass classification model of five different drug features and 
 polypharmacy side effects, which are represented as drug-drug interactions.
 
+## Datasets: URLs
+
+DrugBank: www.drugbank.ca/
+SIDER: sideeffects.embl.de/	
+STITCH: stitch.embl.de/
+PubChem: pubchem.ncbi.nlm.nih.gov/
+KEGG: genome.jp		
+TWOSIDES: tatonettilab.org/twosides
+OFFSIDES: tatonettilab.org/offsides
+
+
 ### Running the code
 
 Run the code with flowing command:
