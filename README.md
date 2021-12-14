@@ -41,7 +41,7 @@ Run the code with flowing command:
 
 PSECNN is tested to work under Python 2 and Python 3. 
 
-Newest version of SQLite is needed for dataset.
+Latest version of SQLite is needed for dataset.
 
 Recent versions of Tensorflow, sklearn, networkx, numpy, and scipy are required. All the required packages can be installed using the following command:
 
