@@ -15,7 +15,7 @@ This repository contains code necessary to run the PSECNN algorithm. PSECNN is a
 </p>
 
 <p align="center">
-<img src="image/1.jpg" width="800" align="center">
+<img src="PSCNN-architcture-1.png" width="800" align="center">
 </p>
 
 We construct a multilabel multiclass classification model of five different drug features and 
