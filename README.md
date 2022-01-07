@@ -13,9 +13,7 @@ This repository contains code necessary to run the PSECNN algorithm. PSECNN is a
 We construct a multilabel multiclass classification model of five different drug features and 
 polypharmacy side effects, which are represented as drug-drug interactions.
 
-<p align="center">
-<img src="https://github.com/MahdiBabaei98/PSECNN/blob/main/image/1.jpg" width="600" align="center">
-</p>
+<p align="center"> <img src="https://github.com/MahdiBabaei98/PSECNN/blob/main/image/1.jpg" width="600" align="center"> </p>
 
 Overview of the first main part of PSECNN model architecture.
 
