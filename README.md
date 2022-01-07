@@ -14,7 +14,7 @@ We construct a multilabel multiclass classification model of five different drug
 polypharmacy side effects, which are represented as drug-drug interactions.
 
 <p align="center">
-<img src="https://github.com/MahdiBabaei98/PSECNN/tree/main/image/1.png" width="600" align="center">
+<img src="https://github.com/MahdiBabaei98/PSECNN/edit/main/image/1.png" width="600" align="center">
 </p>
 
 <p align="center">
