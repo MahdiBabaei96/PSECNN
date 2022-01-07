@@ -17,9 +17,7 @@ polypharmacy side effects, which are represented as drug-drug interactions.
 
 Overview of the first main part of PSECNN model architecture.
 
-<p align="center">
 <img src="https://github.com/MahdiBabaei98/PSECNN/blob/main/image/2.jpg" width="600" align="center">
-</p>
 
 The second part of PSECNN model architecture. The feature vectors of a drug are merged into a unique feature vector, and then two unique feature vectors are concatenated as the representation of the drug pairs.
 
