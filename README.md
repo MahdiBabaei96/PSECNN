@@ -10,6 +10,10 @@ This repository contains code necessary to run the PSECNN algorithm. PSECNN is a
   
 ## Usage: Polypharmacy
 
+<p align="center">
+<img src="https://github.com/marinkaz/decagon/blob/master/images/decagon-architecture-1.png" width="800" align="center">
+</p>
+
 We construct a multilabel multiclass classification model of five different drug features and 
 polypharmacy side effects, which are represented as drug-drug interactions.
 
