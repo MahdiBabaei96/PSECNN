@@ -18,7 +18,7 @@ polypharmacy side effects, which are represented as drug-drug interactions.
 </p>
 
 <p align="center">
-<img src="https://github.com/MahdiBabaei98/PSECNN/tree/main/image/2.png" width="600" align="center">
+<img src="https://github.com/MahdiBabaei98/PSECNN/blob/main/image/2.png" width="600" align="center">
 </p>
 
 
