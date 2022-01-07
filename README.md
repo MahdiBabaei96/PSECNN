@@ -11,7 +11,7 @@ This repository contains code necessary to run the PSECNN algorithm. PSECNN is a
 ## Usage: Polypharmacy
 
 <p align="center">
-<img src="https://github.com/marinkaz/decagon/blob/master/images/decagon-architecture-1.png" width="800" align="center">
+<img src="https://github.com/MahdiBabaei98/PSECNN/blob/master/Images/PSCNN-architcture-1.png" width="800" align="center">
 </p>
 
 ![ScreenShot](/Images/1.jpg)
