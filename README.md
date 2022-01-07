@@ -28,6 +28,10 @@ The second part of PSECNN model architecture. The feature vectors of a drug are 
 
 ## Datasets: URLs
 
+The real dataset is available in dataset folder.
+
+here is the URLs of used datasets.
+
 DrugBank: http://www.drugbank.ca/
 
 SIDER: http://www.sideeffects.embl.de/	
