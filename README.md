@@ -14,6 +14,8 @@ This repository contains code necessary to run the PSECNN algorithm. PSECNN is a
 <img src="https://github.com/marinkaz/decagon/blob/master/images/decagon-architecture-1.png" width="800" align="center">
 </p>
 
+![Polypharmacy graph](/Images/PSCNN-architcture-1.png)
+
 <p align="center">
 <img src="PSCNN-architcture-1.png" width="800" align="center">
 </p>
